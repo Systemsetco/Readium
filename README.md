@@ -32,7 +32,7 @@ A modern, professional e-book platform built with Vue 3 and Vite. Readium provid
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Systemsetco/Readium.git
 cd e-book
 ```
 
